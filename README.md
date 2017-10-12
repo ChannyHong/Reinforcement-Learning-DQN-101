@@ -5,7 +5,9 @@ Prerequisite:
 
 Python 2.7
 Packages: tensorflow, pygame, cv2, PIL, numpy
-How To Install Packages: pip install package-name
+
+How To Install Packages: 
+pip install package-name
 
 List Of Files In The Project:
 
