@@ -5,14 +5,14 @@ Prerequisite:
 - Python 2.7
 - Packages: tensorflow, pygame, cv2, PIL, numpy
 
-
-\n
+ 
+ 
 
 How To Install Packages: 
 pip install package-name
 
-\n
-
+ 
+ 
 
 List Of Files In The Project:
 
@@ -52,8 +52,8 @@ GUI - Supporting Modules
 - media folder
 
 
-
-\n
+ 
+ 
 How To Edit:
 
 To Edit Text Contents:
