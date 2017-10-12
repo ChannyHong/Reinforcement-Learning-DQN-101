@@ -6,12 +6,12 @@ Prerequisite:
 - Packages: tensorflow, pygame, cv2, PIL, numpy
 
 
-
+\n
 
 How To Install Packages: 
 pip install package-name
 
-
+\n
 
 
 List Of Files In The Project:
@@ -19,7 +19,7 @@ List Of Files In The Project:
 Shell Script
 - tutorial.sh
 
-DQN Implementation:
+DQN Implementation
 - dqn.py
 
 Trained DQN Models
@@ -53,7 +53,7 @@ GUI - Supporting Modules
 
 
 
-
+\n
 How To Edit:
 
 To Edit Text Contents:
