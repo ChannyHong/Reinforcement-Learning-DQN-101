@@ -6,8 +6,12 @@ Prerequisite:
 - Packages: tensorflow, pygame, cv2, PIL, numpy
 
 
+
+
 How To Install Packages: 
 pip install package-name
+
+
 
 
 List Of Files In The Project:
@@ -46,6 +50,8 @@ GUI - Supporting Modules
 - mix_and_match.py
 - video_animation.py
 - media folder
+
+
 
 
 How To Edit:
