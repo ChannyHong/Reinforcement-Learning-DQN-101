@@ -14,6 +14,11 @@ pip install package-name
 
  
  
+ 
+How To Run Tutorial:
+./tutorial.sh
+ 
+ 
 
 List Of Files In The Project:
 
