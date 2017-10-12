@@ -10,7 +10,7 @@ Prerequisite:
 
 How To Install Packages: 
 
-pip install package-name
+- pip install package-name
 
  
  
