@@ -16,7 +16,8 @@ How To Install Packages:
  
  
 How To Run Tutorial:
-./tutorial.sh
+
+- ./tutorial.sh
  
  
 
