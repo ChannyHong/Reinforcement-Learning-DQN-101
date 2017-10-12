@@ -72,7 +72,7 @@ To Change Source Of Image File:
 - find the corresponding page/frame
 - change the relative pathway to the corresponding image (the string with 'pathway' suffix)
 
-To Edit Text Contents:
+To Change Source Of Video File:
 - open up the corresponding main module
 - find the corresponding page/frame
 - change the relative pathway to the corresponding video in video_animation instantiation
